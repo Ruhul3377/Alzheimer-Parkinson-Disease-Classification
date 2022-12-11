@@ -1,0 +1,3 @@
+Download the dataset from this link...
+
+https://www.kaggle.com/code/ruhul77/alzheimer-parkinson-disease-classification/data
